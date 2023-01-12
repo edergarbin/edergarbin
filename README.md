@@ -1,10 +1,5 @@
+![rails](https://user-images.githubusercontent.com/5088621/212130540-cc624379-3e0a-47cd-9367-56484b3a4388.png)
 
-<div align="center">
-  <a href="https://github.com/edergarbin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edergarbin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edergarbin&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
 <div style="display: inline_block" align="center"><br>  
   <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />    
   <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />    
